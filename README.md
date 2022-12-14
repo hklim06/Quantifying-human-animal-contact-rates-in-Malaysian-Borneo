@@ -7,3 +7,5 @@ The attached sample code includes:
 1) Univariate analyses to determine individual level risk factors
 2) Univariate analyses to identify potential environmental covariates
 3) Geostatistical modelling of areas with high probability of contact with specific animal species
+
+Data can only be shared with approval from relevant ethics committees. For further information, please contact authors. 
