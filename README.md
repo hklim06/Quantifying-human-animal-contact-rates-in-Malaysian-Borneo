@@ -4,7 +4,7 @@ Changing landscapes across the globe, but particularly in Southeast Asia, are pu
 
 The attached sample code includes:
 
-1) Univariate analyses to determine individual level risk factors
+1) Multivariate analyses to determine individual level risk factors 
 2) Univariate analyses to identify potential environmental covariates
 3) Geostatistical modelling of areas with high probability of contact with specific animal species
 
